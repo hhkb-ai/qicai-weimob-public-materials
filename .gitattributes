@@ -1,0 +1,2 @@
+# Preserve delivered bytes so the SHA256 manifest remains valid.
+materials/** -text
